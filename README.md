@@ -1,8 +1,3 @@
-# manifesto
-==============
-The founding document of OpenBharatStack
-===========================================
-
 # OpenBharatStack 🇮🇳
 
 > "No single entity — foreign or domestic — should control India's critical digital infrastructure."
